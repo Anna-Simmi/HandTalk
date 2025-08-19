@@ -131,7 +131,11 @@ This project is **open source** – feel free to use, modify, and share.
 
 ---
 
-## 👩‍💻 Author
+## 🌐 Connect With Me
 
-**Anna-Simmi**
+<p align="center">
+  <a href="https://github.com/Anna-Simmi"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/anna-simmi-m-d-797ba8339"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="annasimmim@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>  
 
