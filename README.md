@@ -1,4 +1,4 @@
-# Hand Gesture Recognition
+# HandTalk
 
 A Python project for **hand gesture recognition** using **OpenCV**, **MediaPipe**, and **scikit-learn**.  
 This project allows you to:  
@@ -127,6 +127,5 @@ This project is **open-source**. Feel free to use, modify, or share.
 
  Anna-Simmi
 
-```
 
 
